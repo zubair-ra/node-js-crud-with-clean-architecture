@@ -1,0 +1,5 @@
+Host github-zubair-ra
+    HostName github.com
+    User git
+    IdentityFile D:/Zubair/zubair-ra
+    AddKeysToAgent yes
